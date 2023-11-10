@@ -1,4 +1,4 @@
-## yolov3 
+## YOLOv3 with Darknet
 
 💡 I implemented real-time inferences for various models as separate python codes through real-time webcam connectivity on top of the Darknet framework. 
 
