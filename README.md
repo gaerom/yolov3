@@ -3,7 +3,7 @@
 💡 I implemented real-time inferences for various models as separate python codes through real-time webcam connectivity on top of the Darknet framework. 
 
 1️⃣ Converting images entered in units of image frames into array objects  
-2️⃣ Processing in the darknet framework
+2️⃣ Processing in the darknet framework  
 
 
 
