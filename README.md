@@ -5,7 +5,8 @@
 1️⃣ Converting images entered in units of image frames into array objects  
 2️⃣ Processing in the darknet framework  
 
-
+## Object Detection  
+The problem definition of object detection is to determine where object are located in a given image(**object localization**) and which category each object belong to(**object classification**)
 
 
 ## Result
