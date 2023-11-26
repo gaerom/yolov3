@@ -7,7 +7,7 @@
 
 
 ## Object Detection  
-The problem definition of object detection is to determine where object are located in a given image(**object localization**) and which category each object belong to(**object classification**)
+The problem definition of object detection is to determine where object are located in a given image(**object localization**) and which category each object belong to(**object classification**).
 
 
 
